@@ -8,7 +8,7 @@
    - **Image**
    - **Address**
    - **Description**
-3. **Favourites**: Shows your favourite meetups, which you can add by clicking the heart-shaped Favourite button.
+3. **Favourites**: Shows your favourite meetups, which you can add by clicking the Favourite button.
 
 ## Functionality
 - **Adding Meetups**:
